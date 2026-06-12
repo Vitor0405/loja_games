@@ -182,7 +182,7 @@ O script SQL completo está em `database.sql` na raiz do projeto.
 ## 🔗 Repositório
 
 > Adicione aqui o link do seu repositório GitHub após o push:
-> `https://github.com/SEU_USUARIO/loja_games`
+> `https://github.com/Vitor0405/loja_games`
 
 ---
 
